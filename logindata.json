@@ -1,0 +1,9 @@
+{
+    "users": [
+        {
+            "username": "Rahul",
+            "password": "1234",
+            "remember_me": true
+        }
+    ]
+}
